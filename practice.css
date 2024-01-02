@@ -61,3 +61,7 @@ margin: 30px;
     transform: rotate(40deg);
     transform-origin: 10% bottom;
   }
+  img {
+    height: 400px;
+    width: auto;
+  }
